@@ -1,2 +1,2 @@
-# Machine-Learning-Coursera-Assignments-Matlab-
-Assignments to exercises - Machine Learning by Andrew Ng Coursera
+# Machine-Learning-Coursera-Assignments
+Assignments to exercises - Machine Learning by Andrew Ng (in Matlab)
