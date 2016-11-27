@@ -1,0 +1,7 @@
+\input texinfo
+
+@deftypefn {Function File} {@var{hsv_map} =} rgb2hsv (@var{rgb_map})
+@end deftypefn
+
+
+@bye
